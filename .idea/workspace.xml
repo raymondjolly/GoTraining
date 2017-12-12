@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28944f18-cd38-4ab8-9475-375f0f28368d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GettingStarted/scope/01 scope/main.go" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,13 +118,6 @@
               <item name="goTraining" type="462c0819:PsiDirectoryNode" />
               <item name="GettingStarted" type="462c0819:PsiDirectoryNode" />
               <item name="scope" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="goTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="goTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="GettingStarted" type="462c0819:PsiDirectoryNode" />
-              <item name="scope" type="462c0819:PsiDirectoryNode" />
-              <item name="02_visibility" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="goTraining" type="b2602c69:ProjectViewProjectNode" />
@@ -269,12 +263,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512846398922</updated>
-      <workItem from="1512846401856" duration="5600000" />
+      <workItem from="1512846401856" duration="5749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5600000" />
+    <option name="totallyTimeSpent" value="5749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1260" height="692" extended-state="0" />
@@ -353,7 +347,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GettingStarted/scope/01 scope/main.go">
+    <entry file="file://$PROJECT_DIR$/GettingStarted/scope/01_scope/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
