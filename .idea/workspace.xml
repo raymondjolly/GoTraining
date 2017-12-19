@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28944f18-cd38-4ab8-9475-375f0f28368d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/GettingStarted/Review-Controls/01-hello_world/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GettingStarted/Review-Controls/02-hello_name/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GettingStarted/Review-Controls/03-hello_prompt/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GettingStarted/Review-Controls/04-user_enter_numbers/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GettingStarted/Review-Controls/05-even_numbers/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GettingStarted/Review-Controls/06-fizzBuzz/main.go" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GettingStarted/Review-Controls/07-threeFive/main.go" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="28944f18-cd38-4ab8-9475-375f0f28368d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
